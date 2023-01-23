@@ -1,5 +1,7 @@
 ## OpenCV C++ Stereo Fisheye Calibration
 
+_**Note**_: I don't actively maintain this repository anymore. PRs are more than welcome to help improve it.
+
 This contains a source file to calibrate a stereo system comprising of fisheye lenses. It calibrates the extrinsics and the intrinsics of the cameras without any initial guesses. If you are looking for stereo calibration with lenses which follow the pinhole model check [here](https://github.com/sourishg/stereo_calibration).
 
 ### Dependencies
